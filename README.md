@@ -1,4 +1,4 @@
-# ChatGPT-od-po-etnika-do-profesionalca
+# ChatGPT-od-početnika-do-profesionalca
 Dodatni resursi za kupce knjige "ChatGPT od početnika do profesionalca"
 Ovde možete da preuzmete sve ono što nije moglo da uđe u I izdanje knjige.
 Kada je knjiga otišla u štampe 11. oktobra nismo mogli da koristimo DALL-E 3, pa je i poglavlje koje ćete preuzeti nastalo posle navedenog datum
